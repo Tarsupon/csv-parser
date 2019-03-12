@@ -1,0 +1,23 @@
+{
+  "name": "smth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^11.11.0",
+    "csv": "^5.1.1",
+    "csv-file-validator": "^1.5.0",
+    "csv-parser": "^2.2.0",
+    "csv-validator": "0.0.3",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.5",
+    "ts-node": "^8.0.3"
+  }
+}
