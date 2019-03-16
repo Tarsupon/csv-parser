@@ -1,6 +1,6 @@
 "use strict";
 exports.__esModule = true;
-var db_1 = require("./db");
+var db_1 = require("../db");
 var csv = require('csv-parser');
 var fs = require('fs');
 var result = [];
